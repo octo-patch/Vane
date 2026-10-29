@@ -39,12 +39,12 @@ const supportedBaseURLs = new Set(
 
 const defaultChatModels: Model[] = [
   {
-    name: 'MiniMax-M3',
-    key: 'MiniMax-M3',
+    name: 'MiniMax-M3.1-Flash (1M context)',
+    key: 'MiniMax-M3.1-Flash',
   },
   {
-    name: 'MiniMax-M2.7',
-    key: 'MiniMax-M2.7',
+    name: 'MiniMax-M3 (1M context)',
+    key: 'MiniMax-M3',
   },
 ];
 
